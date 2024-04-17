@@ -1,6 +1,6 @@
 {
   "name": "gh-pages-lab-ci",
-  "homepage": "https://alexiscordeiro.github.io/pagesreact.github.io/",
+  "homepage": "https://alexiscordeiro.github.io/pagesreact/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
